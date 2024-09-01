@@ -15,8 +15,8 @@
 #define OMODE_READ_WRITE 12
 #define NO_TRANSLATION 0
 
-// #define DEFAULT_SERVER "fujinet.online:5556"
-#define DEFAULT_SERVER "127.0.0.1:5556"
+// #define DEFAULT_SERVER "127.0.0.1:5556"
+#define DEFAULT_SERVER "fujinet.online:5556"
 #define DEFAULT_TOPIC "minions"
 
 #define DEFAULT_GFX_MODE ATARI_GRAPHICS_8
